@@ -9,3 +9,8 @@ export default class Game {
         console.log(matrix)
     }
 }
+
+function testFunc(x,y) {
+   return x + y ;
+}
+console.log(testFunc(5,10));
